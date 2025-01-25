@@ -22,7 +22,7 @@ This repository sets up the foundation for the "alx-rick-and-morty-app" using Ne
 * `pages/`: Contains Next.js page components.
 * `components/`:  Contains reusable React components.
 * `styles/`: Contains Tailwind CSS configuration and custom styles.
-* `utils/`:  Will contain utility functions, including GraphQL API interaction logic (in the next part).
+* `graphql/`:  Will contain utility functions, including GraphQL API interaction logic (in the next part).
 
 
 
