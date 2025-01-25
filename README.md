@@ -5,7 +5,7 @@ This repository sets up the foundation for the "alx-rick-and-morty-app" using Ne
 ## Getting Started
 
 1. **Clone the Repository:** `git clone https://github.com/yuslove1/alx-graphql-0x01.git`
-2. **Navigate to Project Directory:** `cd alx-graphql-0x01`
+2. **Navigate to Project Directory:** `cd alx-rick-and-morty-app`
 3. **Install Dependencies:** `npm install` (or `yarn install`)
 4. **Run the Development Server:** `npm run dev`
 
